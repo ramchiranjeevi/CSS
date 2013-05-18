@@ -1,0 +1,5 @@
+@ Positioning Mode:
+
+property : position
+values   : static | relative | absolute | fixed
+default value : static
