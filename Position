@@ -3,3 +3,7 @@
 property : position
 values   : static | relative | absolute | fixed
 default value : static
+
+@ position : absolute -> The offset values ( top, right, bottom, left ) will be taken from the body.
+
+@ position: relative --> The offset values ( top, tight, bottom, left) will be taken from the parent container.
