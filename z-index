@@ -1,6 +1,6 @@
 
-@ z-index only works on positioned elements.
-@ 
+@ z-index only works on positioned elements like position: relative; or position: absolute;
+@ So basically there are no limitations for z-index value in the CSS standard, but I guess most browsers limit it to signed 32-bit values (−2147483648 to +2147483647) in practice
 
 
 
